@@ -1,4 +1,4 @@
-# 22-FYP-119
+# 22-FYP-119 (SignLink)
 Final Year Project for Program BS Computer Science at National Textile University, Faisalabad. 
 
 Project Title: SignLink
@@ -11,7 +11,11 @@ The main feature our app “Sign Link” is to translate the sign language in re
 How to run the SignLink Mobile Application.
 
 1.Install the Andriod Studio.
+
 2.Install Java script, python in the Android Studio.
+
 3.Now open the code folder and run the project.
+
 4.Go on the pubspec.yeml file and get dependencies.
+
 5.Now you are redy to run the app on emulator/Mobile Device.
